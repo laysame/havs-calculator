@@ -1,0 +1,17 @@
+.display-items {
+    width: 100%;
+    display: flex;
+    min-height: 100px;
+    padding: 15px 0;
+    align-items: center;
+}
+
+.tool,
+.vibeLevel,
+.points {
+    width: 23%;
+}
+
+.vibeLevel {
+    display: flex;
+}

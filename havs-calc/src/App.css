@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: block;
+  margin: 10px auto;
+  max-width: 80%;
+}
+
+.App-header {
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  color: #1c1a1a;
+}

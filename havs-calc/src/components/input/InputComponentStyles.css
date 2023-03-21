@@ -1,0 +1,14 @@
+.btn {
+    background-color: #3b9a3b !important;
+    border: #3b9a3b !important;
+    margin-top: 10px;
+}
+
+.btn:hover{
+    background-color: #68a168 !important;
+    border: #68a168 !important;
+}
+
+::placeholder, .form-text {
+    font-size: 0.8rem !important;
+}
