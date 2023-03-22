@@ -46,7 +46,7 @@ export const ResultComponent = () => {
                                 EAV (Exposure Action Value) in ${formatElapsedTime(eavMaximumTime)} and the ELV (Exposure
                                 Limit Value)
                                 in ${formatElapsedTime(elvMaximumTime)}.
-                                You have used {consumedPoints} points on this tool, which is ${consumedPointsPercentage}%
+                                You have used ${consumedPoints} points on this tool, which is ${consumedPointsPercentage}%
                                 of the maximum daily allowance!`);
     };
 
